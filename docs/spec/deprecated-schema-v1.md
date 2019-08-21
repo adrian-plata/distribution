@@ -13,7 +13,7 @@ runs successfully, several of which are outlined below.
 
 Try updating the `FROM` statement in your `Dockerfile`.
 
-### Here is a second Issues
+### Here is another Issues
 
 here is some text.
 
